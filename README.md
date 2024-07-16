@@ -1,4 +1,4 @@
-Currently working on [ESPN BET](https://espnbet.com/) and [theScore Bet](https://thescore.bet/)
+Currently working on [ESPN Bet](https://espnbet.com/) and [theScore Bet](https://thescore.bet/)
 
 <!--
 **chilucdiep/chilucdiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
