@@ -28,7 +28,7 @@
 
 #### ... And some passion projects I work on the side
 
-<b>shigg.</b> — Making <i>wellness</i> simple.
+<a href="https://shigg.vercel.app/"><b>shigg.</b></a> — Making <i>wellness</i> simple.
 <br />
 <a href="https://shigg.vercel.app/"><img width="400" alt="Personal project — wellness tools" src="https://github.com/chilucdiep/private-assets/blob/main/shigg.svg"></a>
 <br />
