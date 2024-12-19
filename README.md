@@ -2,12 +2,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://espnbet.com/"><img width="100" alt="ESPN Bet badge" src="https://github.com/chilucdiep/private-assets/blob/main/espn-badge.svg"></a>
+      <a href="https://espnbet.com/" target="_blank"><img width="100" alt="ESPN Bet badge" src="https://github.com/chilucdiep/private-assets/blob/main/espn-badge.svg"></a>
       <br />
       <span>ESPN's official sports betting and casino app.</span>
     </td>
       <td>
-      <a href="https://thescore.bet/"><img width="100" alt="theScore Bet badge" src="https://github.com/chilucdiep/private-assets/blob/main/thescore-badge.svg"></a>
+      <a href="https://thescore.bet/" target="_blank"><img width="100" alt="theScore Bet badge" src="https://github.com/chilucdiep/private-assets/blob/main/thescore-badge.svg"></a>
       <br />
       <span>theScore's official sports betting and casino app.</span>
     </td>
@@ -15,10 +15,10 @@
     
   <tr>
     <td>
-      <a href="https://espnbet.com/"><img width="400" alt="Casino homepage of ESPN BET" src="https://github.com/chilucdiep/private-assets/blob/main/espnbet.png"></a>
+      <a href="https://espnbet.com/" target="_blank"><img width="400" alt="Casino homepage of ESPN BET" src="https://github.com/chilucdiep/private-assets/blob/main/espnbet.png"></a>
     </td>
     <td>
-      <a href="https://thescore.bet/"><img width="400" alt="Casino homepage of ESPN BET" src="https://github.com/chilucdiep/private-assets/blob/main/thescore.svg"></a>
+      <a href="https://thescore.bet/" target="_blank"><img width="400" alt="Casino homepage of ESPN BET" src="https://github.com/chilucdiep/private-assets/blob/main/thescore.svg"></a>
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://shigg.vercel.app/"><img width="50" alt="theScore Bet badge" src="https://raw.githubusercontent.com/chilucdiep/private-assets/refs/heads/main/shigg-logo.png"></a>
+      <a href="https://shigg.vercel.app/" target="_blank"><img width="50" alt="theScore Bet badge" src="https://raw.githubusercontent.com/chilucdiep/private-assets/refs/heads/main/shigg-logo.png"></a>
       <br />
       Making <i>wellness</i> simple.
     </td>
@@ -36,7 +36,7 @@
 
   <tr>
     <td>
-      <a href="https://shigg.vercel.app/"><img width="400" alt="Personal project — wellness tools" src="https://github.com/chilucdiep/private-assets/blob/main/shigg.svg"></a>
+      <a href="https://shigg.vercel.app/" target="_blank"><img width="400" alt="Personal project — wellness tools" src="https://github.com/chilucdiep/private-assets/blob/main/shigg.svg"></a>
     </td>
   </tr>
 </table>
